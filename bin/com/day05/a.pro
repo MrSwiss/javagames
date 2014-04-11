@@ -1,0 +1,10 @@
+jframex=600
+jframey=800
+workaurl=Characters/Done_body16001_walk.png
+workasizex=100
+workasizey=100
+bodyx=200
+bodyy=300
+paopao=Characters/paopao5.png
+paosizex=30
+paosizey=30
